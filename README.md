@@ -28,5 +28,4 @@ SOKOBAN-AI is a Python-based solution to the classic puzzle game SOKOBAN, incorp
 
 Run the following command in the terminal:
 
-
-Replace `main.py` with the appropriate file name if different.
+ `python main.py` 
