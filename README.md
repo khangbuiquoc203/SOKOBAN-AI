@@ -1,22 +1,31 @@
-Project Title:
+# Project Title:
 
-SOKOBAN-AI
-Brief Description
+## SOKOBAN-AI
 
-A fully Python-implemented solution to the classic puzzle game SOKOBAN, utilizing AI algorithms for intelligent level solving.
-Features
+## Brief Description
 
-AI Algorithms:
-List the algorithms you implemented (e.g., A*, Breadth-First Search, Depth-First Search, etc.)
-Level Format:
-Briefly describe the level file format you are using (e.g., plain text representation, custom format).
-100% Python:
-Emphasize the project's focus on Python and its associated libraries.
-Getting Started
+SOKOBAN-AI is a Python-based solution to the classic puzzle game SOKOBAN, incorporating AI algorithms for intelligent level solving.
 
-Prerequisites:
-Python 3.x (specify recommended version)
-List any required libraries (e.g., NumPy, Pygame if you have a visual interface)
+## Features
 
-Usage
-python main.py 
+- **AI Algorithms:**
+  - Specify the implemented algorithms (e.g., A*, Breadth-First Search, Depth-First Search, etc.).
+
+- **Level Format:**
+  - Describe the level file format used (e.g., plain text representation, custom format).
+
+- **100% Python:**
+  - Highlight the project's reliance on Python and its associated libraries.
+
+## Getting Started
+
+### Prerequisites:
+
+- Python 3.x (recommended version specified)
+- List any required libraries (e.g., NumPy, Pygame if a visual interface is included)
+
+## Usage
+
+Run the following command in the terminal:
+
+ `python main.py` 
